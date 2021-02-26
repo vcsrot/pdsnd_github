@@ -3,6 +3,9 @@
 ### Date created
 February 26th, 2021
 
+### Project Version
+v0.1
+
 ### Project Title
 Bike Project
 
@@ -15,3 +18,5 @@ washington.csv
 
 ### Credits
 Udacity's repo
+
+
