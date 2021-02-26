@@ -16,6 +16,9 @@ Tracks bike rides in NY/DC
 new_york_city.csv
 washington.csv
 
+### Description of functions
+Describe relevant functions here
+
 ### Credits
 Udacity's repo
 
